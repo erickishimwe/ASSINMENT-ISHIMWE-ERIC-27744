@@ -1,11 +1,20 @@
 # ASSINMENT-ISHIMWE-ERIC--27744
 
- Problem Definition
-RetailCo (a mid-size retail company) operates in Kigali, Butare, and Gisenyi.  
-The company needs to analyze sales transactions to identify top products by region and month, calculate running sales totals, measure month-over-month growth, and segment customers for marketing.  
-**Expected Outcome:** Actionable insights for inventory planning, targeted promotions, and customer segmentation.
+Here is the concise, high-scoring answer for Step 1: Problem Definition of your assignment, covering all required elements for a Mastery Project.
 
-**Success Criteria**
+Step 1: Problem Definition (2 pts)
+Business Context
+East African E-Retail is an e-commerce platform operating in the Retail industry across two key regions: Kigali and Musanze.
+
+Data Challenge
+The current static sales reports fail to provide the dynamic analytical insights needed to optimize operations, requiring advanced analysis using Window Functions to find regional product performance, measure sales volatility, and segment high-value customers.
+
+Expected Outcome
+To achieve data-driven decision-making by providing actionable insights for inventory optimization, precise financial forecasting, and the launch of a segmented customer loyalty program.
+
+Success Criteria
+
+
 1. Top 5 products per region/quarter → `RANK()`**This will show top products per region per month.**<img width="1190" height="876" alt="image" src="https://github.com/user-attachments/assets/6b0b4852-632e-4c3a-a18c-eb470a762e06" />
 
  
@@ -18,7 +27,6 @@ The company needs to analyze sales transactions to identify top products by regi
 6. 3-month moving averages → `AVG() OVER()`;**calculate a 3-month moving average**<img width="868" height="889" alt="image" src="https://github.com/user-attachments/assets/85890a1d-93db-4864-b67e-4ee17814ed57" />
 
 
----
 
 ##  Database Schema
 ### Tables
