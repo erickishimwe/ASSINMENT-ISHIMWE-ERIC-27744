@@ -1,8 +1,4 @@
 # ASSINMENT-ISHIMWE-ERIC--27744
-
-Here is the concise, high-scoring answer for Step 1: Problem Definition of your assignment, covering all required elements for a Mastery Project.
-
-Step 1: Problem Definition (2 pts)
 Business Context
 East African E-Retail is an e-commerce platform operating in the Retail industry across two key regions: Kigali and Musanze.
 
