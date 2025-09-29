@@ -8,7 +8,7 @@ The current static sales reports fail to provide the dynamic analytical insights
 Expected Outcome
 To achieve data-driven decision-making by providing actionable insights for inventory optimization, precise financial forecasting, and the launch of a segmented customer loyalty program.
 
-Success Criteria
+**Success Criteria**
 
 
 1. Top 5 products per region/quarter → `RANK()`**This will show top products per region per month.
