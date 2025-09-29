@@ -16,18 +16,35 @@ Success Criteria
 
 
 1. Top 5 products per region/quarter → `RANK()`**This will show top products per region per month.
-2.
-3.
-4. **<img width="1190" height="876" alt="image" src="https://github.com/user-attachments/assets/6b0b4852-632e-4c3a-a18c-eb470a762e06" />
+  
+  
+**<img width="1190" height="876" alt="image" src="https://github.com/user-attachments/assets/6b0b4852-632e-4c3a-a18c-eb470a762e06" />
 
  
-5. Running monthly sales totals per region → `SUM() OVER()`;**calculate running monthly sales totals per region**<img width="1153" height="748" alt="image" src="https://github.com/user-attachments/assets/aa77bbb2-b748-46bb-a83b-9937da6d6352" />
+2. Running monthly sales totals per region → `SUM() OVER()`;**calculate running monthly sales totals per region
 
-6. Month-over-month growth → `LAG()` / `LEAD()**`are perfect for calculating month-over-month (MoM) growth**<img width="1171" height="847" alt="image" src="https://github.com/user-attachments/assets/d6c181e4-10ab-4fb9-adf1-603804e864ca" />
 
-7. Customer quartiles → `NTILE(4)`; **divide customers into quartiles based on total spending**<img width="873" height="701" alt="image" src="https://github.com/user-attachments/assets/1f79e438-fc58-44fc-9946-0e1246a92d78" />
 
-8. 3-month moving averages → `AVG() OVER()`;**calculate a 3-month moving average**<img width="868" height="889" alt="image" src="https://github.com/user-attachments/assets/85890a1d-93db-4864-b67e-4ee17814ed57" />
+**<img width="1153" height="748" alt="image" src="https://github.com/user-attachments/assets/aa77bbb2-b748-46bb-a83b-9937da6d6352" />
+
+3. Month-over-month growth → `LAG()` / `LEAD()**`are perfect for calculating month-over-month (MoM) growth
+
+
+
+**<img width="1171" height="847" alt="image" src="https://github.com/user-attachments/assets/d6c181e4-10ab-4fb9-adf1-603804e864ca" />
+
+4. Customer quartiles → `NTILE(4)`; **divide customers into quartiles based on total spending
+
+
+
+
+**<img width="873" height="701" alt="image" src="https://github.com/user-attachments/assets/1f79e438-fc58-44fc-9946-0e1246a92d78" />
+
+5. 3-month moving averages → `AVG() OVER()`;**calculate a 3-month moving average
+  
+  
+
+**<img width="868" height="889" alt="image" src="https://github.com/user-attachments/assets/85890a1d-93db-4864-b67e-4ee17814ed57" />
 
 
 
