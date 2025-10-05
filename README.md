@@ -1,4 +1,8 @@
 # ASSINMENT-ISHIMWE-ERIC--27744
+Names: ISHIMWE Eric
+ID: 27744
+
+
 Business Context
 East African E-Retail is an e-commerce platform operating in the Retail industry across two key regions: Kigali and Musanze.
 
